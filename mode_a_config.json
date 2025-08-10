@@ -1,0 +1,75 @@
+{
+  "platforms": [
+    "leboncoin",
+    "vinted"
+  ],
+  "models": [
+    "iphone 12",
+    "iphone 12 pro",
+    "iphone 12 pro max",
+    "iphone 13",
+    "iphone 13 mini",
+    "iphone 13 pro",
+    "iphone 13 pro max",
+    "iphone 14",
+    "iphone 14 plus",
+    "iphone 14 pro",
+    "iphone 14 pro max",
+    "iphone 15",
+    "iphone 15 plus",
+    "iphone 15 pro",
+    "iphone 15 pro max",
+    "iphone 16",
+    "iphone 16 plus",
+    "iphone 16 pro",
+    "iphone 16 pro max",
+    "ipad",
+    "ipad pro",
+    "ipad air",
+    "ipad mini"
+  ],
+  "price_min": 45,
+  "price_max": 170,
+  "search_interval_seconds": 180,
+  "require_shipping": true,
+  "shipping_positive": [
+    "livraison",
+    "envoi possible",
+    "expedition",
+    "mondial relay",
+    "colissimo",
+    "chronopost",
+    "relais",
+    "achat protege"
+  ],
+  "shipping_negative": [
+    "remise en main propre",
+    "a recuperer",
+    "à récupérer",
+    "venir chercher",
+    "pas d'envoi",
+    "pas de livraison",
+    "uniquement sur place",
+    "main propre"
+  ],
+  "terms_any": [
+    [
+      "iphone",
+      "ipad"
+    ],
+    [
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "pro",
+      "pro max",
+      "plus",
+      "mini"
+    ]
+  ],
+  "terms_optional": [],
+  "terms_exclude": [],
+  "tag_prefix": "🔎"
+}
